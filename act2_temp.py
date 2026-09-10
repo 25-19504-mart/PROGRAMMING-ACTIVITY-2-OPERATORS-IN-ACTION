@@ -5,10 +5,10 @@
 name = input("Enter your name: ")
 print("Hello, " + name)
 
-temperature = float(input("Enter temperature in °C: "))
+celcius = float(input("Enter temperature in °C: "))
 
-fahrenheit = temperature * 9 / 5 + 32
-between = 20 <= temperature <= 30
+farenheit = celcius * 9 / 5 + 32
+between = 20 <= celcius <= 30
 
 print("Fahrenheit:", fahrenheit)
 print("Between 20 and 30 °C:", between)
