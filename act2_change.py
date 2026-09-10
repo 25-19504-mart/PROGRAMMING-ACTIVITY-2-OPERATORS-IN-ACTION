@@ -1,6 +1,6 @@
-# Name = Hernandez, Mart Darren I.
-# Section = BMET 2101
-# Task 1 = Change Calculator
+# Name : Hernandez, Mart Darren I.
+# Section : BMET 2101
+# Task 1 :Change Calculator
 
 name = input("Enter your name: ")
 print("Hello, " + name)
